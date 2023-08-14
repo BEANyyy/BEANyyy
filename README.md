@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 😆 Introduce
-- 🔭 I’m currently working on my project [AnalysticStockData](https://github.com/BEANyyy/AnalysticStockData)
+- 🔭 I’m currently working on my project [AnalysticStockData](https://github.com/BEANyyy/AnalysticStockData) for graduation
 - 🌱 I’m currently learning ML & Data Analysis in university
 - 👯 I’m looking to collaborate with a great company like ✨YOU✨!!
 - ⚡ Fun fact: Computer science is my second major, but I'm spending more time on it than my first. 🥹
