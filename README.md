@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Github.io-FFCA28?style=flat-square&logo=github.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-FFCA28?style=flat-square&logo=github&logoColor=white"/>
