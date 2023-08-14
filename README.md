@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBEANyyy&count_bg=%2379C83D&title_bg=%23FF6262&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![YEBIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=BEANyyy0&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+[![YEBIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=BEANyyy&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 
 <br>
 
