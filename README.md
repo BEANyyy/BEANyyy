@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my project [AnalysticStockData](https://github.com/BEANyyy/AnalysticStockData) for graduation
 - 🌱 I’m currently learning ML & Data Analysis in university
 - 👯 I’m looking to collaborate with a great company like ✨YOU✨!!
-- ⚡ Fun fact: Computer science is my second major, but I'm spending more time on it than my first. 🥹
+- ⚡ Fun fact: Computer science is my second major, but I'm spending more time on it than my first. 🥹 <br> And I'm confident in the lot of effort I've put in and in my ability to develop like that!! 💪
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
