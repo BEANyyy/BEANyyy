@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 😆 Introduce
+## 😆 Introduction
 - 🔭 I’m currently working on my project [AnalysticStockData](https://github.com/BEANyyy/AnalysticStockData) for graduation
 - 🌱 I’m currently learning ML & Data Analysis in university
 - 👯 I’m looking to collaborate with a great company like ✨YOU✨!!
