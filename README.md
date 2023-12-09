@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## 😆 Introduction
 - 🔭 I’m currently working on my project [AnalysticStockData](https://github.com/BEANyyy/AnalysticStockData) for graduation
 - 🌱 I’m currently learning ML & Data Analysis in university
-- 🥕 My major is English Language and Literature and Computer Science
+- 🥕 My major is English Language and Literature && Computer Engineering
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
