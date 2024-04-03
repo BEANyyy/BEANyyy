@@ -49,6 +49,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> 
     <br>
 </div><be>
+
 ### FE
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
@@ -57,6 +58,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     <br>
 </div><be>
+  
 ### BE
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
@@ -67,6 +69,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
     <br>
 </div><be>
+  
 ### Server
 <div style="display:flex; flex-direction:row;">
      <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
