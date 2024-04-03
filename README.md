@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <br>
 
 ## 😆 Introduction
-- 🔭 I have currently done on my project [AnalysticStockData](https://github.com/BEANyyy/AnalysticStockData) for graduation
-- 🌱 I’m currently learning ML & Data Analysis in university
+- 🔭 I have currently worked on my project [AnalysticStockData](https://github.com/BEANyyy/AnalysticStockData) for graduation
+- 🌱 I have currently learned ML & Data Analysis in university
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
