@@ -26,12 +26,9 @@ Here are some ideas to get you started:
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://beanyyy.github.io/">
+<!--     <a href="https://beanyyy.github.io/">
         <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white"> 
-    </a>
-    <a href="https://www.notion.so/6c2a12bc59f34f26bda324358272f111?v=33dd84b01c1a4fbda550b13190633951&pvs=4">
-        <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
-    </a>
+    </a> -->
   
  
 ## 📞 Contact 📞
