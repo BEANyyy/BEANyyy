@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 <br>
 
 ## 😆 Introduction
-- 🔭 I have currently worked on my project [AnalysticStockData](https://github.com/BEANyyy/AnalysticStockData) for graduation
+- 🔭 I have currently worked on my project [AnalysticStockData](https://github.com/BEANyyy/AnalysticStockData) for graduation: Using ESN for Economic time series DA
 - 🌱 I have currently learned ML & Data Analysis in university
+- 🔥 I am learning to BE and working on a project: Delivery Service "Eat and Do It"
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
