@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <br>
 
 ## 😆 Introduction
-- 🔭 I have currently worked on my project [AnalysticStockData](https://github.com/BEANyyy/AnalysticStockData) for graduation: Using ESN for Economic time series DA
-- 🌱 I have currently learned ML & Data Analysis in university
-- 🔥 I am learning to BE and working on a project: Delivery Service "Eat and Do It"
+- 🔭 I have worked on [AnalysticStockData](https://github.com/BEANyyy/AnalysticStockData): Using ESN for Economic time series DA (Python)
+- 🌱 I have currently learned ML & Data Analysis in university (Python)
+- 🔥 I am learning to BE and working on a project: Delivery Service "Eat and Do It" (Spring(boot), MySQL, Mybatis, DBA)
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
